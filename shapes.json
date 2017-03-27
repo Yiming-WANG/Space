@@ -1,0 +1,10 @@
+{"shapes":[
+  {"type": "Circle",   "left":  950,  "top":  350, "right":  970, "bottom":  370, "x":  3, "y":   5, "rotation":    1, "color":    -65536, "borders": "PassThru",  "size": "large",    "score":    10, "multiplier":   2,  "children": 2},
+  {"type": "Square",   "left":  1025,  "top":  325, "right":  1050, "bottom":  350, "x":  -2, "y":   6, "rotation":  0.5, "color":  16711935, "borders": "PassThru",  "size": "large",    "score":    10, "multiplier":   2,  "children": 2},
+  {"type": "Triangle", "left": 300,  "top": 335, "right": 335, "bottom": 370, "x": 0.2, "y": 0.1, "rotation":    1, "color":      256, "borders": "PassThru",  "size": "large",    "score":    10, "multiplier":   2,  "children": 2},
+  {"type": "Ship",     "left": 800,  "top": 400, "right": 820, "bottom": 420, "x":   4, "y":  -3, "rotation": -0.5, "color":        -65536, "borders": "PassThru",  "size": "large",    "score":    10, "multiplier":   2,  "children": 2},
+  {"type": "Circle",   "left": 200,  "top": 200, "right": 225, "bottom": 225, "x":   2, "y":  -3, "rotation":    1, "color": -16711936, "borders": "Rebound",  "size": "large",    "score":    10, "multiplier":   2,  "children": 2},
+  {"type": "Square",   "left":  35,  "top":  45, "right":  50, "bottom":  60, "x":   2, "y":  -2, "rotation": -0.5, "color":   8388736, "borders": "Rebound",  "size": "large",    "score":    10, "multiplier":   2,  "children": 2},
+  {"type": "Triangle", "left": 150,  "top": 200, "right": 200, "bottom": 250, "x":   0, "y":   5, "rotation":    4, "color":       -16711936, "borders": "Rebound",  "size": "large",    "score":    10, "multiplier":   2,  "children": 2},
+  {"type": "Ship",     "left":  50,  "top":  50, "right":  90, "bottom":  90, "x":  -3, "y":   0, "rotation":  0.5, "color":  255, "borders": "Rebound",  "size": "large",    "score":    10, "multiplier":   2,  "children": 2}
+]}
