@@ -37,6 +37,7 @@ import main.se450.utilities.Collide;
 
 /**
  * ShapeDisplay class handles most of the functions of display including start display, collide, disappear of shots.
+ * This is just a test
  * @author Yiming Wang
  *
  */
